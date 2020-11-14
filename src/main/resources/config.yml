@@ -1,0 +1,32 @@
+
+Prefix: '&3&lGold Development &7'
+
+# Speed Messages
+SpeedEnable: '&7You have &aenabled &7the Speed effect!'
+SpeedDisable: '&7You have &cdisabled &7the Speed effect!'
+SpeedLevel: '1'
+
+# Haste Messages
+HasteEnable: '&7You have &aenabled &7the Haste effect!'
+HasteDisable: '&7You have &cdisabled &7the Haste effect!'
+HasteLevel: '2'
+
+# FireRes Messages
+FireResEnable: '&7You have &aenabled &7the Fire Resistance effect!'
+FireResDisable: '&7You have &cdisabled &7the Fire Resistance effect!'
+FireResLevel: '2'
+
+# Invis Messages
+InvisEnable: '&7You have &aenabled &7the Invisivility effect!'
+InvisDisable: '&7 You have &cdisabled &7the Invisivility effect!'
+InvisLevel: '2'
+
+# Strength Messages
+StrengthEnable: '&7You have &aenabled &7the Strength effect!'
+StrengthDisable: '&7You have &cdisabled &7the Strength effect!'
+StrengthLevel: '1'
+
+# NigthVision Messages
+NigthVisionEnable: '&7You have &aenabled &7the NigthVision effect!'
+NightVisionDisable: '&7You have &cdisabled &7the NigthVision effect!'
+NightVisionLevel: '1'

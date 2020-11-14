@@ -1,0 +1,6 @@
+name: Effect
+version: ${project.version}
+main: dev.sakio.effect.effect.Effect
+api-version: 1.16
+authors: [DevSakio]
+description: Basic Effect Plugin
